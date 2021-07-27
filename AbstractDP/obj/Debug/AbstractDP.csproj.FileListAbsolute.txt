@@ -1,0 +1,7 @@
+C:\Users\912155\source\repos\AbstractDP\AbstractDP\bin\Debug\AbstractDP.exe.config
+C:\Users\912155\source\repos\AbstractDP\AbstractDP\bin\Debug\AbstractDP.exe
+C:\Users\912155\source\repos\AbstractDP\AbstractDP\bin\Debug\AbstractDP.pdb
+C:\Users\912155\source\repos\AbstractDP\AbstractDP\obj\Debug\AbstractDP.csproj.AssemblyReference.cache
+C:\Users\912155\source\repos\AbstractDP\AbstractDP\obj\Debug\AbstractDP.csproj.CoreCompileInputs.cache
+C:\Users\912155\source\repos\AbstractDP\AbstractDP\obj\Debug\AbstractDP.exe
+C:\Users\912155\source\repos\AbstractDP\AbstractDP\obj\Debug\AbstractDP.pdb
