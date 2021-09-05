@@ -18,10 +18,10 @@ namespace AbstractDP
             Console.WriteLine(c.GetHeadLight());
             Console.WriteLine(c.GetTire());
             Factory audi = new AudiFactory();
-            Client c1 = new Client(audi);
+            Client c2 = new Client(audi);
             Console.WriteLine("-----------AudiFactory---------");
-            Console.WriteLine(c1.GetHeadLight());
-            Console.WriteLine(c1.GetTire());
+            Console.WriteLine(c2.GetHeadLight());
+            Console.WriteLine(c2.GetTire());
             Console.ReadKey();
 
         }
